@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "email": "foo@bar.com",
+      "username": "Hirak",
+      "password": "123",
+      "conformPassword": "123"
+    }
+  ],
+  "tasks": [
+    {
+      "task": "Complete the coding Assignment"
+    }
+  ]
+}
