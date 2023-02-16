@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "id": 1,
       "username": "Hirak",
       "email": "foo@bar.com",
       "password": "123"
